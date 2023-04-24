@@ -1,0 +1,17 @@
+C:\Users\NPC4\source\repos\GetDemo\bin\Debug\net6.0-windows\GetDemo.exe
+C:\Users\NPC4\source\repos\GetDemo\bin\Debug\net6.0-windows\GetDemo.deps.json
+C:\Users\NPC4\source\repos\GetDemo\bin\Debug\net6.0-windows\GetDemo.runtimeconfig.json
+C:\Users\NPC4\source\repos\GetDemo\bin\Debug\net6.0-windows\GetDemo.dll
+C:\Users\NPC4\source\repos\GetDemo\bin\Debug\net6.0-windows\GetDemo.pdb
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.csproj.AssemblyReference.cache
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.Form1.resources
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.csproj.GenerateResource.cache
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.AssemblyInfoInputs.cache
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.AssemblyInfo.cs
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.csproj.CoreCompileInputs.cache
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.dll
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\refint\GetDemo.dll
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.pdb
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\GetDemo.genruntimeconfig.cache
+C:\Users\NPC4\source\repos\GetDemo\obj\Debug\net6.0-windows\ref\GetDemo.dll
